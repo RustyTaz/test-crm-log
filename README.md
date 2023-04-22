@@ -1,4 +1,11 @@
 # Test CRM Login and Contacts Pages
 
-### `npm start`
+### Project setup
+```
+npm install --save --legacy-peer-deps
+```
+### Compiles 
+```
+npm start
+```
 
